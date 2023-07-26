@@ -1,4 +1,5 @@
 hw1/omniglot_resized/.DS_Store
 **/__pycache__/
 **/omniglot_resized/*
-run/*
+**/run/
+imsi.ipynb
