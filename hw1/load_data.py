@@ -106,7 +106,7 @@ class DataGenerator(object):
                 N is number of classes
                 
             labels: tensor
-                A tensor of images of size [B, K+1, N, N] 
+                A tensor of labels of size [B, K+1, N, N] 
                 where B is batch size, K is number of samples per class, 
                 N is number of classes
         """
